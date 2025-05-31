@@ -17337,5 +17337,12 @@
     "author": "Sangrak Choi",
     "description": "Create a new note with today's date in the current directory",
     "repo": "kargnas/obsidian-create-note-with-date"
-}
+  },
+  {
+    "id": "daily-note-streak",
+    "name": "Daily note streak",
+    "author": "Vitaliy Dolbilov",
+    "description": "Display a writing streak counter in the status bar based on consecutive days with files in a specified folder",
+    "repo": "vdolbilov/obisdian-daily-note-streak"
+  }, 
 ]
